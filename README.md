@@ -88,16 +88,16 @@ All he wants is a simple data visualization tool which he can access on daily ba
 
 ## Data Extraction, Transformation, and Loading (ETL):
 
-# 1.Extraction: Data is extracted from various sources using MySQL.
+ 1.Extraction: Data is extracted from various sources using MySQL.
 
-# 2.Transformation: Data undergoes transformations as needed (e.g., cleaning, normalization) using MySQL.
+ 2.Transformation: Data undergoes transformations as needed (e.g., cleaning, normalization) using MySQL.
 
-# 3.Loading: Transformed data is loaded into the target destination, likely a database or data warehouse.
+ 3.Loading: Transformed data is loaded into the target destination, likely a database or data warehouse.
 
 ## Data Modeling:
 
-# 1.Schema Connections: Schemas are connected to create a cohesive data model.
-# 2.Tool Usage: Power BI is used to visualize and analyze the modeled data.
+ 1.Schema Connections: Schemas are connected to create a cohesive data model.
+ 2.Tool Usage: Power BI is used to visualize and analyze the modeled data.
 
 ## Data Analysis  (DAX):
 
