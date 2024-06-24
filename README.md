@@ -1,8 +1,7 @@
 # AtliQ-Hardware-Data-Analytics
 
-# Sales Insights Data Analysis Project
-
-# Data Analysis Using SQL
+#Sales Insights Data Analysis Project
+#Data Analysis Using SQL
 
 #1.Show all customer records
 
